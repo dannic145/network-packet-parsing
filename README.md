@@ -142,6 +142,21 @@ python tls_1_2_parse.py
 
 ---
 
+## Disclaimer
+
+This project is strictly for educational use. It is intended to illustrate cryptographic and networking concepts in a controlled, local environment.
+
+---
+
+## Author
+
+**Daniel Nicolas Rentapalli** — Cryptography & Network Security Demonstration
+MSc Cyber Security Student  
+Swansea University  
+This project was developed as part of the **2526_CSCM888 / CSMM88 – Network, Wireless & Cloud Security** module at Swansea University.
+
+---
+
 ## References
 
 1. PCAP sample files sourced from public packet capture repositories
